@@ -7,7 +7,7 @@ public class Main {
     public static void main(String[] args) {
         // if initialCats < 0 -> World goes BOOM!!!!!!
         //if initialCats = catsAsHeroes -> Yay! The world is saved!
-        //Find the less steps possible to make initialCats = catsAsHeroes
+        //Find the least steps possible to make initialCats = catsAsHeroes
 
 	    int initialCats;
 	    int catsAsHeroes;
